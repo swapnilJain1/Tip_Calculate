@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  max-width: 60%;
+  margin: 55px auto;
+}
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 4px;
+}
+p {
+  text-align: right;
+}
